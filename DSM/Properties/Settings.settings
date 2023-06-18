@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DSM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApplicationSkinName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Summer 2008</Value>
+    </Setting>
+    <Setting Name="SkinMaskColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SkinMaskColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bd.accdb</Value>
+    </Setting>
+    <Setting Name="Sauvgarde" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ActiveSauvgarde" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="dateDebut" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2019-09-01</Value>
+    </Setting>
+    <Setting Name="dateFin" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2020-05-31</Value>
+    </Setting>
+    <Setting Name="anne" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
